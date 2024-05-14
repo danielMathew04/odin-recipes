@@ -1,0 +1,17 @@
+html {
+    background-color: #717D7E;
+    color: blanchedalmond;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+p,
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
